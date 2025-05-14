@@ -1,6 +1,6 @@
 # Google Playstore App Review Analysis
 
-![image alt](https://www.google.com/imgres?q=playstore%20analysis&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*75SwvWQrspM0aKlN02uWTQ.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ritz1602.rs%2Fgoogle-play-store-analysis-eda-4321dc6d36df&docid=S_02X_Et1pFbHM&tbnid=cBqcGHZ3IhW5YM&vet=12ahUKEwjwhd2Vm6ONAxV56jgGHb4WOhQQM3oECFsQAA..i&w=1400&h=379&hcb=2&ved=2ahUKEwjwhd2Vm6ONAxV56jgGHb4WOhQQM3oECFsQAA)
+![image alt]([https://www.google.com/imgres?q=playstore%20analysis&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*75SwvWQrspM0aKlN02uWTQ.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ritz1602.rs%2Fgoogle-play-store-analysis-eda-4321dc6d36df&docid=S_02X_Et1pFbHM&tbnid=cBqcGHZ3IhW5YM&vet=12ahUKEwjwhd2Vm6ONAxV56jgGHb4WOhQQM3oECFsQAA..i&w=1400&h=379&hcb=2&ved=2ahUKEwjwhd2Vm6ONAxV56jgGHb4WOhQQM3oECFsQAA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ritz1602.rs%2Fgoogle-play-store-analysis-eda-4321dc6d36df&psig=AOvVaw2cpKMXPN3yYcEc6axGQVlj&ust=1747320750608000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDL_qubo40DFQAAAAAdAAAAABAE))
 
 # Project Summary
 
