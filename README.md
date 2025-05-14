@@ -1,5 +1,7 @@
 # Google Playstore App Review Analysis
 
+![image alt](https://www.google.com/imgres?q=playstore%20analysis&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*75SwvWQrspM0aKlN02uWTQ.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ritz1602.rs%2Fgoogle-play-store-analysis-eda-4321dc6d36df&docid=S_02X_Et1pFbHM&tbnid=cBqcGHZ3IhW5YM&vet=12ahUKEwjwhd2Vm6ONAxV56jgGHb4WOhQQM3oECFsQAA..i&w=1400&h=379&hcb=2&ved=2ahUKEwjwhd2Vm6ONAxV56jgGHb4WOhQQM3oECFsQAA)
+
 # Project Summary
 
 This exploratory data analysis (EDA) project focuses on analyzing the Google Play Store apps data and customer reviews dataset. The goal is to derive actionable insights that can help app-making businesses succeed in the Android market.
